@@ -1,0 +1,6 @@
+﻿  PoolEnumeration.cpp
+C:\Users\Intel\source\repos\PoolEnumeration\PoolEnumeration\PoolEnumeration.cpp(105,16): warning C4477: 'printf' : format string '%12llu' requires an argument of type 'unsigned __int64', but variadic argument 3 has type 'SIZE_T'
+C:\Users\Intel\source\repos\PoolEnumeration\PoolEnumeration\PoolEnumeration.cpp(105,16): message : consider using '%lu' in the format string
+C:\Users\Intel\source\repos\PoolEnumeration\PoolEnumeration\PoolEnumeration.cpp(105,16): warning C4477: 'printf' : format string '%12llu' requires an argument of type 'unsigned __int64', but variadic argument 4 has type 'SIZE_T'
+C:\Users\Intel\source\repos\PoolEnumeration\PoolEnumeration\PoolEnumeration.cpp(105,16): message : consider using '%lu' in the format string
+  PoolEnumeration.vcxproj -> C:\Users\Intel\source\repos\PoolEnumeration\Debug\PoolEnumeration.exe

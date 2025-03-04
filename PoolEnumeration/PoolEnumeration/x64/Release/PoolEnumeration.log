@@ -1,0 +1,9 @@
+﻿  PoolEnumeration.cpp
+C:\Users\Intel\source\repos\PoolEnumeration\PoolEnumeration\PoolEnumeration.cpp(60,18): warning C4566: character represented by universal-character-name '\U0001F680' cannot be represented in the current code page (1252)
+C:\Users\Intel\source\repos\PoolEnumeration\PoolEnumeration\PoolEnumeration.cpp(60,18): warning C4566: character represented by universal-character-name '\U0001F525' cannot be represented in the current code page (1252)
+  Generating code
+  2 of 422 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  PoolEnumeration.vcxproj -> C:\Users\Intel\source\repos\PoolEnumeration\x64\Release\PoolEnumeration.exe
